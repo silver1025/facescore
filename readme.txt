@@ -1,10 +1,10 @@
-MTCNNÈËÁ³¼ì²â²¿·Ö
-WIDERÊý¾Ý¼¯£º½«http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/µÄÑµÁ·ÓëÑéÖ¤Êý¾ÝÏÂÔØ½âÑ¹£¬½«ÀïÃæµÄWIDER_trainºÍWIDER_valÎÄ¼þ¼Ð·ÅÖÃµ½dataÏÂ
-lfwÊý¾Ý¼¯£º½«http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htmµÄÊý¾Ý¼¯ÏÂÔØ½âÑ¹£¬½«ÀïÃæµÄlfw_5590ºÍnet_7876ÎÄ¼þ¼Ð·ÅÖÃµ½dataÏÂ
-ÑµÁ·Ê±±ØÐë°´ÕÕÒÔÏÂ²½ÖèË³Ðò½øÐÐ£º
-1.Éú³ÉPNETµÄtfrecords
-2.ÑµÁ·PNET
-3.Éú³ÉRNETµÄtfrecords
-4.ÑµÁ·RNET
-5.Éú³ÉONETµÄtfrecords
-6.ÑµÁ·ONET
+MTCNNäººè„¸æ£€æµ‹éƒ¨åˆ†
+WIDERæ•°æ®é›†ï¼šå°†http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/ çš„è®­ç»ƒä¸ŽéªŒè¯æ•°æ®ä¸‹è½½è§£åŽ‹ï¼Œå°†é‡Œé¢çš„WIDER_trainå’ŒWIDER_valæ–‡ä»¶å¤¹æ”¾ç½®åˆ°dataä¸‹
+lfwæ•°æ®é›†ï¼šå°†http://mmlab.ie.cuhk.edu.hk/archive/CNN_FacePoint.htm çš„æ•°æ®é›†ä¸‹è½½è§£åŽ‹ï¼Œå°†é‡Œé¢çš„lfw_5590å’Œnet_7876æ–‡ä»¶å¤¹æ”¾ç½®åˆ°dataä¸‹
+è®­ç»ƒæ—¶å¿…é¡»æŒ‰ç…§ä»¥ä¸‹æ­¥éª¤é¡ºåºè¿›è¡Œï¼š
+1.ç”ŸæˆPNETçš„tfrecords
+2.è®­ç»ƒPNET
+3.ç”ŸæˆRNETçš„tfrecords
+4.è®­ç»ƒRNET
+5.ç”ŸæˆONETçš„tfrecords
+6.è®­ç»ƒONET
